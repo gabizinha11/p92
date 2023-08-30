@@ -1,0 +1,31 @@
+html,{
+	right: 100%;
+	margin: 0;
+}
+
+body
+{
+	background: lightblue;
+}
+
+	.login_div
+	{
+		background: white;
+		padding: 20px;
+		float: none;
+		border-radius: 15px;
+		margin: 10%
+}
+#logo_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
